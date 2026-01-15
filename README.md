@@ -5,51 +5,16 @@ This repository showcases my professional work and capabilities across Web Devel
 Here are some ideas to get you started:
 
 🛠️ Tools & Tech
-Web Development
 
-HTML5, CSS3
+I work across the full web stack, combining modern frontend frameworks, reliable backend technologies, scalable databases, and data-driven optimization practices to deliver high-quality digital products.
 
-Tailwind CSS
+In Web Development, I build responsive and performant interfaces using HTML5, CSS3, Tailwind CSS, and modern JavaScript (ES6+), with hands-on experience in React.js and Vue.js for creating dynamic, component-driven applications. On the backend, I work with Node.js and Laravel (PHP) to develop secure, maintainable APIs and server-side applications.
 
-JavaScript (ES6+)
+For Databases, I design and manage both relational and non-relational data stores, including MySQL, PostgreSQL, and MongoDB, focusing on efficient schema design, querying, and scalability.
 
-React.js
+Across Data Analytics, I work in the capacity of a Data Analyst, Marketing Analyst, and Business Analyst, using data to support product decisions, marketing performance, and overall business growth. I leverage SQL (MySQL / PostgreSQL) for data extraction, modeling, and aggregation, enabling KPI definition, tracking, reporting, and dashboarding that translate raw data into actionable insights for stakeholders.
 
-Vue.js
-
-Node.js
-
-Laravel (PHP)
-
-Databases
-
-MySQL
-
-PostgreSQL
-
-MongoDB
-
-Data Analytics
-
-SQL (MySQL / PostgreSQL)
-
-Data modeling & aggregation
-
-KPI tracking & reporting
-
-Dashboarding & insights generation
-
-SEO & Performance
-
-Technical SEO audits
-
-On-page & structural optimization
-
-Schema markup (JSON-LD)
-
-Core Web Vitals optimization
-
-Analytics & tracking (GA, GTM)
+On the SEO & Performance side, I handle on-page, off-page, and technical SEO, focusing on site architecture, crawlability, indexing, and content optimization. My work includes technical SEO audits, structural and metadata optimization, Schema markup (JSON-LD), and Core Web Vitals improvements, supported by accurate analytics and tracking implementations using tools such as Google Analytics and Google Tag Manager.
 
 📌 Focus Areas
 
